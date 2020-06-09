@@ -3,8 +3,8 @@ Este projeto foi resultado da "semanaomnistack - 11" onde foram trabalhadas as s
 
 <h2>Demo</h2>
 * App:<br />
-![to-be-hero-app](https://user-images.githubusercontent.com/36766110/84093880-d846d080-a9d1-11ea-9900-4aa073a356b5.gif)
+![to-be-hero-app](to-be-hero-app.gif)
 * Web:<br />
-![to-be-hero-web](https://user-images.githubusercontent.com/36766110/84092917-2d351780-a9cf-11ea-900d-274e337c45a6.gif)
+![to-be-hero-web](to-be-hero-web.gif)
 
 <p>Certificado de participação: <a href="https://storage.googleapis.com/golden-wind/semana-omnistack-11/guilherme.salviano12@outlook.com.pdf">ver</a>.</p>
